@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on a powerful package ![FEALPy](https://github.com/weihuayi/fealpy) for numerical PDEs.
+- 🌱 I’m currently learning how to lead a team.
+- 📫 How to reach me: weihuayi@xtu.edu.cn
 <!--
 **weihuayi/weihuayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
